@@ -1,0 +1,1 @@
+qlen = len("I drive men mad For the love of me, Easily beaten, Never free. What Am I??")
